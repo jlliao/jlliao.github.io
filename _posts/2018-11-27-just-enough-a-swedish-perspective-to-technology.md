@@ -15,7 +15,7 @@ tags:
 
 When I pick up an electronic product, clad with technological functions in its description, I often question why I would need it. Indeed, an exclusive focus on technological goals can fail to recognize all the stakeholders related to a technology and address real user needs. However, strolling around the Nordic Museum in Stockholm, where thousands of exhibits showcase the transforming lifestyle of Swedish people, I was amazed by the minimalistic yet extremely functional design of Scandinavian furnitures and appliances. Why is Sweden so good at making tech everyone actually wants? How do Swedes master the art of living simply while still chasing progress with passion?
 
-### Useful and Simple: Swedish Functional Design
+# Useful and Simple: Swedish Functional Design
 
 Swedish design is the perfect marriage of minimalism and functionalism. It embodies the idea that a product should serve its purpose with minimal materials and light components; only what is needed is used. This ideology sounds easy to follow, but hard to execute in reality. It requires the innovator/designer to consider more critically than common designers, because for a well-designed functional blueprint, the designer, instead of tweaking the previous design to add improvements, needs to decompose the whole design, assess every element in meticulous detail and think of new ways to improve functionalities and diminish drawbacks.
 
@@ -39,7 +39,7 @@ Earlier this month, Furhat Robotics launched its face-swapping social robot afte
 	<figcaption>Furhat Robot</figcaption>
 </figure>
 
-### The Birth and Progress of Swedish Functionalism
+# The Birth and Progress of Swedish Functionalism
 
 Swedish innovators and designers were influenced by everything going on around them. With their tradition of craftsmanship and efficient use of limited material resources (due to their relative geographic isolation), they combined the best of both worlds. In line with prevailing democratic social views, everything was made to be available to everyone. The notion of enjoying the work you do was highly regarded, and the idea that beautiful things could enrich people’s lives was kept alive.
 
@@ -59,7 +59,7 @@ Moving into the machine age, surviving became easier, and functionalism evolved 
 
 The long winters and few hours of sunlight inspired Swedish designers to create practical environments. They tried to make the domestic environment as comfortable as possible with the materials at hand. These trends were picked up by neighboring countries and eventually spread all over the world. The high-quality designs live on today and are recreated continually in various fields, confirming their timelessness.
 
-### We Need Functionalism More Than Ever
+# We Need Functionalism More Than Ever
 
 Today, there are many products that are considerably over-designed, often premised on promises to reinvent things that we used to take for granted.
 
