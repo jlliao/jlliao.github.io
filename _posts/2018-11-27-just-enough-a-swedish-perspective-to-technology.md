@@ -1,5 +1,6 @@
 ---
 title: "Just Enough: A Swedish Perspective to Technology"
+excerpt: "Why Sweden Is So Good at Making Tech Everyone Wants?"
 header:
   overlay_image: /assets/images/swedish-design-1920x1080.jpg
   overlay_filter: 0.5
