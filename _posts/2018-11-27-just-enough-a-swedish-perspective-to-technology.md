@@ -1,7 +1,7 @@
 ---
 title: "Just Enough: A Swedish Perspective to Technology"
 header:
-  image: /assets/images/swedish-design-1920x1080.jpeg
+  image: /assets/images/swedish-design-1920x1080.jpg
 categories:
   - Featured
   - User Experience
