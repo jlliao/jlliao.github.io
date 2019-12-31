@@ -116,6 +116,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:mike.liaojl@gmail.com
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jlmike/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jlliao.github.io"
